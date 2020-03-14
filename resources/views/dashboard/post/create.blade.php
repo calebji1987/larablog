@@ -13,7 +13,7 @@
             </div>
             <div class="form-group">
                 <label for="url_clean ">Url limpia</label>
-                <input class="form-control" type="text" name="url_clean " id="url_clean ">
+                <input class="form-control" type="text" name="url_clean" id="url_clean">
             </div>
             <div class="form-group">
                 <label for="content ">Contenido</label>
